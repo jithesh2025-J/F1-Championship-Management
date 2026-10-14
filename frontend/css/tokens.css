@@ -1,0 +1,29 @@
+:root {
+  --color-bg: #070809;
+  --color-bg-soft: #0b0d10;
+  --color-panel: #111418;
+  --color-panel-raised: #171b20;
+  --color-line: rgba(255, 255, 255, 0.1);
+  --color-line-red: rgba(225, 6, 0, 0.46);
+  --color-text: #f4f5f6;
+  --color-text-muted: #8c929b;
+  --color-text-dim: #626872;
+  --color-red: #e10600;
+  --color-red-bright: #ff3b30;
+  --color-red-soft: rgba(225, 6, 0, 0.14);
+  --color-success: #49d597;
+  --color-gold: #e2b84b;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --radius-panel: 12px;
+  --radius-control: 8px;
+  --font-heading: "Arial Narrow", "Bahnschrift Condensed", "Segoe UI", sans-serif;
+  --font-body: "Segoe UI", Inter, ui-sans-serif, system-ui, sans-serif;
+  --shadow-panel: 0 22px 60px rgba(0, 0, 0, 0.28);
+  --transition-fast: 180ms ease;
+}

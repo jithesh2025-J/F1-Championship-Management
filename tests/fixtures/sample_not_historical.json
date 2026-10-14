@@ -1,0 +1,6 @@
+{
+  "is_illustrative": true,
+  "source_system": "ILLUSTRATIVE",
+  "note": "This fixture is NOT a historical F1 result and must not be loaded into championship standings.",
+  "driver_ref": "demo_driver"
+}
